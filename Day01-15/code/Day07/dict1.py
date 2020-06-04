@@ -23,7 +23,7 @@ def main():
     print(scores.get('武则天', 60))
     print(scores.popitem())
     print(scores.popitem())
-    print(scores.pop('骆昊', 100))
+    print(scores.pop('狄仁杰', 100))
     scores.clear()
     print(scores)
 
