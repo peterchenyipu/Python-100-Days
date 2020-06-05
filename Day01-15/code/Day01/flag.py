@@ -3,6 +3,7 @@
 """
 import turtle
 
+# windows
 
 def draw_rectangle(x, y, width, height):
     """绘制矩形"""

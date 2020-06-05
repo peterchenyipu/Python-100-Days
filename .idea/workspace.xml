@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="264b2b0f-97d5-4421-93ea-2d45b8252c78" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day01-15/01.初识Python.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day01-15/07.字符串和常用数据结构.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day01-15/11.文件和异常.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day01-15/code/Day01/flag.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day01-15/code/Day01/flag.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day01-15/code/Day02/centigrade.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day01-15/code/Day02/centigrade.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day01-15/code/Day02/leap.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day01-15/code/Day02/strings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day01-15/code/Day03/conversion.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day01-15/code/Day03/grade.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day01-15/code/Day05/prime.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day01-15/code/Day06/function1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day01-15/code/Day07/dict1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day01-15/code/Day07/fibonacci.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day01-15/code/Day07/list2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day01-15/code/Day07/lottery.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day01-15/code/Day08/clock.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day01-15/code/Day08/rect.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day01-15/code/Day09/employee.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day01-15/code/Day11/csv1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day01-15/code/Day11/ex3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day01-15/code/Day11/example.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day01-15/code/Day11/file2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day01-15/code/Day11/file3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day01-15/code/Day11/teacher.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day01-15/code/Day12/test5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day01-15/code/Day13/asyncio3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day01-15/code/Day13/multiprocess3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day01-15/code/Day13/multithread4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day01-15/code/Day13/singlethread1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day01-15/code/Day14/socket3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day01-15/code/Day15/excel1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day01-15/res/image-crop.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day01-15/res/image-filter.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day01-15/res/image-show.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day01-15/res/image-thumbnail.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day01-15/res/oop-zhihu.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day01-15/res/tel-start-number.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day01-15/res/uml-example.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day16-20/code/example13.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day16-20/code/example24.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day21-30/code/new/web1901/css_practice_1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day21-30/code/new/web1901/css_practice_2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day21-30/code/new/web1901/example_of_audio_video.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day21-30/code/new/web1901/example_of_bom_1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day21-30/code/new/web1901/example_of_iframe.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day21-30/code/new/web1901/example_of_jquery_1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day21-30/code/new/web1901/example_of_jquery_2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day21-30/code/new/web1901/example_of_jquery_3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day21-30/code/new/web1901/example_of_js_1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day21-30/code/new/web1901/example_of_js_2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day21-30/code/new/web1901/images/a3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day21-30/code/new/web1901/images/add.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day21-30/code/new/web1901/images/buttons.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day21-30/code/new/web1901/images/logo-1.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day21-30/code/new/web1901/images/picture-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day21-30/code/new/web1901/images/star.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day21-30/code/new/web1901/js_practice_6.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day21-30/code/old/javascript/example04.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day21-30/code/old/javascript/js/mylib.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day31-35/code/guess.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day41-55/code/polls_origin/images/zhangwuji.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day41-55/code/polls_origin/register.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day41-55/code/shop/cart/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day41-55/code/shop/cart/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day41-55/code/shop_origin/cart/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day41-55/code/shop_origin/shop/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day61-65/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day61-65/code/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day61-65/code/hello-tornado/example03.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day61-65/code/hello-tornado/example07.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day61-65/code/project_of_tornado/assets/html/table-list-img.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day61-65/code/project_of_tornado/assets/i/examples/admin-opera.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day61-65/code/project_of_tornado/assets/i/examples/admin-safari.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day61-65/code/project_of_tornado/assets/i/examples/adminPage.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day61-65/code/project_of_tornado/assets/js/dataTables.responsive.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day61-65/res/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day61-65/res/run-hello-world-app.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day61-65/res/ws_wss.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day66-75/code/example03.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day66-75/code/example10a.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day66-75/code/example11.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day66-75/code/generator02.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day66-75/code/image360/image360/pipelines.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day66-75/code/image360/image360/spiders/taobao.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day66-75/code/main_redis.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day66-75/常见反爬策略及应对方案.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day76-90/code/2-pandas-索引.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day76-90/code/6-pandas数据集成.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/公开课/文档/第04次公开课-好玩的Python/code/example01.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/公开课/文档/第04次公开课-好玩的Python/好玩的Python.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/公开课/文档/第06次公开课-算法入门系列2-在水一方/code/example01.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/公开课/文档/第06次公开课-算法入门系列2-在水一方/算法入门系列2-在水一方.key" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/公开课/视频/视频链接.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/番外篇/一个小例子助你彻底理解协程.md" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JupyterTrust" id="36828337-a942-4bf2-9854-0f5e2a6d172c" />
+  <component name="ProjectId" id="1c12bSA7Ae2qDlc7uBLtPBvtc5M" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager" selected="Python.variable5">
+    <configuration name="centigrade" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python-100-Days" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day01-15/code/Day02" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day01-15/code/Day02/centigrade.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="flag" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python-100-Days" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day01-15/code/Day01" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day01-15/code/Day01/flag.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="peppa_pig" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python-100-Days" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day01-15/code/Day01" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day01-15/code/Day01/peppa_pig.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="strings" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python-100-Days" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day01-15/code/Day02" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day01-15/code/Day02/strings.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="variable5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python-100-Days" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day01-15/code/Day02" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day01-15/code/Day02/variable5.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.variable5" />
+        <item itemvalue="Python.strings" />
+        <item itemvalue="Python.centigrade" />
+        <item itemvalue="Python.peppa_pig" />
+        <item itemvalue="Python.flag" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="264b2b0f-97d5-4421-93ea-2d45b8252c78" name="Default Changelist" comment="" />
+      <created>1589680381135</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589680381135</updated>
+      <workItem from="1589680384998" duration="243000" />
+      <workItem from="1589681056409" duration="39000" />
+      <workItem from="1589681112374" duration="160000" />
+      <workItem from="1589681865270" duration="343000" />
+      <workItem from="1589682845309" duration="133000" />
+      <workItem from="1589683139349" duration="4081000" />
+      <workItem from="1589695936362" duration="1237000" />
+      <workItem from="1589777849786" duration="2572000" />
+      <workItem from="1590043195782" duration="138000" />
+      <workItem from="1590043341486" duration="73000" />
+      <workItem from="1590043437525" duration="19000" />
+      <workItem from="1590043551862" duration="12000" />
+      <workItem from="1591353925966" duration="174000" />
+      <workItem from="1591354123726" duration="600000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1856" y="-179" width="622" height="511" key="#Notifications" timestamp="1589682884604">
+      <screen x="1440" y="-997" width="1080" height="1897" />
+    </state>
+    <state x="1856" y="-179" width="622" height="511" key="#Notifications/0.23.1440.877/1440.-997.1080.1897@1440.-997.1080.1897" timestamp="1589682884604" />
+    <state x="1444" y="-387" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589688004249">
+      <screen x="1440" y="-997" width="1080" height="1897" />
+    </state>
+    <state x="1444" y="-387" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.877/1440.-997.1080.1897@1440.-997.1080.1897" timestamp="1589688004249" />
+    <state x="1684" y="-434" key="#flag" timestamp="1589688180001">
+      <screen x="1440" y="-997" width="1080" height="1897" />
+    </state>
+    <state x="1684" y="-434" key="#flag/0.23.1440.877/1440.-997.1080.1897@1440.-997.1080.1897" timestamp="1589688180001" />
+    <state width="1038" height="356" key="GridCell.Tab.0.bottom" timestamp="1589697176930">
+      <screen x="1440" y="-997" width="1080" height="1897" />
+    </state>
+    <state width="1038" height="356" key="GridCell.Tab.0.bottom/0.23.1440.877/1440.-997.1080.1897@1440.-997.1080.1897" timestamp="1589697176930" />
+    <state width="1038" height="356" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1589695306517" />
+    <state width="1038" height="356" key="GridCell.Tab.0.center" timestamp="1589697176929">
+      <screen x="1440" y="-997" width="1080" height="1897" />
+    </state>
+    <state width="1038" height="356" key="GridCell.Tab.0.center/0.23.1440.877/1440.-997.1080.1897@1440.-997.1080.1897" timestamp="1589697176929" />
+    <state width="1038" height="356" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1589695306516" />
+    <state width="1038" height="356" key="GridCell.Tab.0.left" timestamp="1589697176928">
+      <screen x="1440" y="-997" width="1080" height="1897" />
+    </state>
+    <state width="1038" height="356" key="GridCell.Tab.0.left/0.23.1440.877/1440.-997.1080.1897@1440.-997.1080.1897" timestamp="1589697176928" />
+    <state width="1038" height="356" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1589695306516" />
+    <state width="1038" height="356" key="GridCell.Tab.0.right" timestamp="1589697176929">
+      <screen x="1440" y="-997" width="1080" height="1897" />
+    </state>
+    <state width="1038" height="356" key="GridCell.Tab.0.right/0.23.1440.877/1440.-997.1080.1897@1440.-997.1080.1897" timestamp="1589697176929" />
+    <state width="1038" height="356" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1589695306516" />
+    <state x="49" y="190" key="SettingsEditor" timestamp="1591354204579">
+      <screen x="0" y="23" width="1080" height="1897" />
+    </state>
+    <state x="49" y="190" key="SettingsEditor/0.23.1080.1897@0.23.1080.1897" timestamp="1591354204579" />
+    <state x="1433" y="-395" key="SettingsEditor/0.23.1440.877/1440.-997.1080.1897@1440.-997.1080.1897" timestamp="1589688349572" />
+    <state x="1645" y="-552" width="670" height="676" key="search.everywhere.popup" timestamp="1589688431410">
+      <screen x="1440" y="-997" width="1080" height="1897" />
+    </state>
+    <state x="1645" y="-552" width="670" height="676" key="search.everywhere.popup/0.23.1440.877/1440.-997.1080.1897@1440.-997.1080.1897" timestamp="1589688431410" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Python_100_Days$centigrade.coverage" NAME="centigrade Coverage Results" MODIFIED="1589696840540" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day01-15/code/Day02" />
+    <SUITE FILE_PATH="coverage/Python_100_Days$peppa_pig.coverage" NAME="peppa_pig Coverage Results" MODIFIED="1589688891483" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day01-15/code/Day01" />
+    <SUITE FILE_PATH="coverage/Python_100_Days$strings.coverage" NAME="strings Coverage Results" MODIFIED="1589697074053" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day01-15/code/Day02" />
+    <SUITE FILE_PATH="coverage/Python_100_Days$variable5.coverage" NAME="variable5 Coverage Results" MODIFIED="1589697161974" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day01-15/code/Day02" />
+    <SUITE FILE_PATH="coverage/Python_100_Days$flag.coverage" NAME="flag Coverage Results" MODIFIED="1589688883224" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day01-15/code/Day01" />
+  </component>
+</project>
